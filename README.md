@@ -19,7 +19,7 @@ This project was built to address those issues by:
 
 ---
 
-## Build journey
+## Build journey:
 
 This project was developed incrementally as part of a build-in-public journey.
 
