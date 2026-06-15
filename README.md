@@ -1,4 +1,4 @@
-# AI Job Application Tracker:
+# AI Job Application Tracker
 
 This repository documents the step-by-step development of an AI-powered job application tracker, built in public.
 
