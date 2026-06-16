@@ -4,7 +4,7 @@ This repository documents the step-by-step development of an AI-powered job appl
 
 The project explores how AI can be applied in a **practical, explainable, and responsible way** to improve the job application experience for developers.
 
----
+
 
 ## Why this project
 
