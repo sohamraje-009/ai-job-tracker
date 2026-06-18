@@ -6,7 +6,7 @@ The project explores how AI can be applied in a **practical, explainable, and re
 
 
 
-## Why this project
+## Why this project:
 
 Tracking job applications is often messy and manual.  
 Applications are scattered across emails, spreadsheets, and job portals, and resumes are frequently rejected without meaningful feedback,
