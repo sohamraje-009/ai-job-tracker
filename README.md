@@ -17,7 +17,7 @@ This project was built to address those issues by:
 - Providing clarity on resume strengths and gaps
 - Applying AI to solve a real, personal problem rather than adding AI for hype
 
----
+
 
 ## Build journey:
 
@@ -31,7 +31,7 @@ This project was developed incrementally as part of a build-in-public journey.
 
 ---
 
-## Current status (Day 5)
+## Current status (Day 5) :
 
 🚧 **MVP completed (work in progress)**
 
